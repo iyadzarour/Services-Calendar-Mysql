@@ -68,3 +68,10 @@ booking-backend-main/uploads/**/*
 Thumbs.db
 .DS_Store
 
+# Sensitive files
+**/serviceAccountKey.json
+**/*serviceAccount*.json
+**/*key*.json
+**/*secret*.json
+**/*credentials*.json
+
