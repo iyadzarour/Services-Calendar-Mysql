@@ -1,0 +1,9 @@
+@import "react-big-calendar/lib/sass/styles";
+
+@media screen and (max-width: 800px) {
+  .rbc-toolbar .rbc-toolbar-label {
+    flex-grow: 2;
+    padding: 15px 70px;
+    text-align: center;
+  }
+}

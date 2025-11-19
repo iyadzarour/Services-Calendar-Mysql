@@ -1,0 +1,9 @@
+.contact-calendar .calendar-container .calendar-card .ant-card-body {
+  padding: 0px;
+}
+
+@media screen and (max-width: 800px) {
+  .contact-calendar .ant-layout-content {
+      padding: 5px 10px !important;
+  }
+}

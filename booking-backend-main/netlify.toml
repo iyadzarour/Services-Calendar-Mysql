@@ -1,0 +1,6 @@
+[build]
+command = "npm run build"
+publish = "lib"
+
+[build.environment]
+NODE_VERSION = "16"

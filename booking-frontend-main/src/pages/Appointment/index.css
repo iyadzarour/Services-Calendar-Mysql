@@ -1,0 +1,12 @@
+.calendar-container .calendar-card .ant-card-body {
+  padding: 0px;
+}
+
+.calendar-container .calendar-card .ant-card-body {
+  padding: 0px;
+}
+
+.hide-year-navigation .ant-picker-calendar-mode-switch,
+.hide-year-navigation .ant-picker-calendar-mode-switch {
+  display: none !important;
+}

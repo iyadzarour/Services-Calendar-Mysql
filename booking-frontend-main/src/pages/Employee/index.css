@@ -1,0 +1,9 @@
+.calendar-container .calendar-card .ant-card-body {
+  padding: 0px;
+}
+
+@media screen and (max-width: 800px) {
+  .employee-calendar .ant-layout-content {
+      padding: 5px 10px !important;
+  }
+}

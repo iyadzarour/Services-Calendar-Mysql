@@ -1,0 +1,20 @@
+.services-form .ant-upload-drag-container {
+    display: flex !important;
+    align-items: center;
+    padding-left: 23px;
+    text-align: left;
+}
+
+.services-form .upload-hint-label {
+    font-size: 14px;
+    color: rgba(0, 0, 0, 0.8);
+    line-height: 22px;
+    font-weight: 600;
+}
+
+.services-form .upload-hint {
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.45);
+    line-height: 19px;
+    font-weight: 600;
+}
